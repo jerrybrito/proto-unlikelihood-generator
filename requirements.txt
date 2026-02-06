@@ -1,0 +1,2 @@
+# Requires: temporal-inertia
+# (Not available on PyPI)
